@@ -36,42 +36,12 @@ def check_if_connection_exist(net_path, password):
 # --> FINE DELLA CREAZIONE DELLA COMUNICAZIONE TRA SERVER E DATI
 # Cache date e Cache files per download files solo se i files vengono modificati
 date = [
-    "2017-05-29 12.33",
-    "2016-02-03 13.59",
-    "2017-05-29 12.46",
-    "2017-05-29 12.52",
-    "2012-02-22 08.16",
-    "2017-05-26 14.44",
-    "2015-01-15 15.26",
-    "2017-05-29 12.46",
-    "2002-02-18 21.39",
-    "2017-05-29 12.46",
-    "2017-05-29 12.51",
-    "2017-05-29 12.51",
-    "2017-05-29 12.51",
-    "2017-05-29 11.37",
-    "2017-05-29 10.46",
-    "2004-01-12 16.20"
+    # DATA DI CREAZIONE DEI FILES
 ]
 
 
 files = [
-"Assistenza.txt",
-"Bilance.txt",
-"Commesse.txt",
-"Elenco.txt",
-"FixResin.txt",
-"MatPrime.txt",
-"Operatori.txt",
-"Produz.txt",
-"Produzione.txt",
-"Ricette.txt",
-"Serbatoi.txt",
-"StatoFrm.txt",
-"Storico.txt",
-"UltimoSerbatoio.txt",
-"Utenti.txt",
-"Veicoli.txt"
+    # NOMI DEI FILES
 ]
 
 #--> Fine Cache
